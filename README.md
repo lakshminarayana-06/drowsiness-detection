@@ -54,7 +54,7 @@ Accuracy may not be perfect in all situations
 
 Conclusion
 This project demonstrates how AI can be used for real-world safety applications. It provides a basic but effective solution for detecting driver drowsiness and can be improved further with advanced models and hardware integration
-![image alt]([image_url](https://github.com/lakshminarayana-06/drowsiness-detection/blob/deb5b67342fedc02048ee218fe48fa9e73aaffef/Screenshot%202026-05-07%20113319.png))
+![image alt](https://github.com/lakshminarayana-06/drowsiness-detection/blob/deb5b67342fedc02048ee218fe48fa9e73aaffef/Screenshot%202026-05-07%20113319.png))
 
 
 
